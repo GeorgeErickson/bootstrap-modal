@@ -10,6 +10,7 @@
   "license": {
     "type": "Apache License 2.0",
     "url": "https://github.com/jschr/bootstrap-modal/blob/master/LICENSE"
-  }
+  },
+  "main": ["js/bootstrap-modalmanager.js","js/bootstrap-modal.js"]
 
 }
